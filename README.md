@@ -1,4 +1,4 @@
-# My vim configs for python
+# My dotfiles and configs
 
 ## Nice videos about vim:
 
